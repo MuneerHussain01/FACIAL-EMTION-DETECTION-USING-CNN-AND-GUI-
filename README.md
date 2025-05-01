@@ -1,4 +1,4 @@
-# FACIAL-EMTION-DETECTION-USING-CNN-AND-GUI-
+# FACIAL-EMOTION-DETECTION-USING-CNN-AND-GUI-
 
 Objective 
 To design and implement a facial emotion classification system that: 
